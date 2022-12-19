@@ -1,6 +1,5 @@
 # CS50 final project
 
-#### Video Demo: https://www.youtube.com/watch?v=zI9tiqpW1Rs&t=209s
 #### Description: Final project cs50, about time management
 Good evening everyone, my name is Bruno, I'm from São Paulo and I'm a CS50 student.
 Today I will present to you the first project from the CS50 labs, the name of the project and Search, and it is based on doing a Google search using an html file with Form tags to create a form, input, header, among others.
