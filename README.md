@@ -1,10 +1,13 @@
 # Search 
 
-#### Description: Final project cs50, about time management
+#### Description
 Good evening everyone, my name is Bruno, I'm from São Paulo and I'm a CS50 student.
 Today I will present to you the first project from the CS50 labs, the name of the project and Search, and it is based on doing a Google search using an html file with Form tags to create a form, input, header, among others.
 
 We can do 3 types of search that are normal search for the index.html file, image search for image_search.html and finally advanced search for advanced_search.html the code is on my GitHub if you want to see it.
+
+<img src="https://i.ibb.co/mzNBD4M/Optimization-2.gif" alt="Optimization-2" border="0">
+
 # index.html 
 Will do a normal search as shown
 
