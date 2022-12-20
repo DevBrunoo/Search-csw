@@ -1,4 +1,4 @@
-# CS50 final project
+# Search 
 
 #### Description: Final project cs50, about time management
 Good evening everyone, my name is Bruno, I'm from São Paulo and I'm a CS50 student.
